@@ -1,6 +1,6 @@
 # JMC-modpack
 
-click [here](example.com "latest release") for latest version
+click [here](https://github.com/robotman2412/JMC-modpack/archive/v1.2-forge1.7.10.zip "latest release") for latest version
 
 #### NEWS
 
